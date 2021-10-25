@@ -186,3 +186,62 @@ if use url directly to this edit page, it will show
 ### All rspec tests must be updated to support user authentication.
 
 ![Screenshot from 2021-10-25 14-08-21](https://user-images.githubusercontent.com/21187699/138771207-cd4cac60-d054-4591-b25d-a1f7aa14f2bd.png)
+
+
+## Part 3 Reviews
+
+Value: 20%
+
+### Implement the ability for users to put reviews on each idea's show page
+
+![Screenshot from 2021-10-25 14-40-59](https://user-images.githubusercontent.com/21187699/138775099-f5235cf9-0197-4cb9-993b-d26e533cda7f.png)
+
+after submit
+
+![Screenshot from 2021-10-25 14-42-57](https://user-images.githubusercontent.com/21187699/138775302-134d6486-8511-41b2-8ef9-77fbe0176777.png)
+
+
+in another idea
+![Screenshot from 2021-10-25 14-43-42](https://user-images.githubusercontent.com/21187699/138775399-e450d1aa-1d0d-4345-8fd4-bff6dbe2c1fa.png)
+
+after submit
+![Screenshot from 2021-10-25 14-44-23](https://user-images.githubusercontent.com/21187699/138775466-d1098a96-3dc5-4284-8d90-76a7346809c2.png)
+
+
+
+### User must be signed in in order to create a review and the created reviews get associated with the signed in user
+
+
+test from sign out 
+
+![Screenshot from 2021-10-25 14-47-25](https://user-images.githubusercontent.com/21187699/138775794-f26881d1-36e7-4866-a3bb-401f935458ae.png)
+
+
+after submit, if will ask login 
+
+![Screenshot from 2021-10-25 14-48-21](https://user-images.githubusercontent.com/21187699/138775885-4710d385-7fb5-4f22-b3a8-27e84991325a.png)
+
+
+### The user who created the review should be able to delete the review
+
+after log in
+
+![Screenshot from 2021-10-25 14-52-09](https://user-images.githubusercontent.com/21187699/138776278-ba7907ff-019d-491e-808a-d69857d0c2fb.png)
+
+only show delete button for creator 
+
+
+![Screenshot from 2021-10-25 14-52-39](https://user-images.githubusercontent.com/21187699/138776418-fd7c3901-1ebf-4f3c-84d1-bfccb8faf7e8.png)
+
+click delete ,show message deleted
+
+![Screenshot from 2021-10-25 14-54-26](https://user-images.githubusercontent.com/21187699/138776519-86cee3e2-c78b-4ae2-a1fb-53cdb5cfb713.png)
+
+review list don't have this review
+
+![Screenshot from 2021-10-25 14-55-43](https://user-images.githubusercontent.com/21187699/138776887-31bdf9c4-05fe-49d7-ba20-1f42f063794d.png)
+
+
+
+
+

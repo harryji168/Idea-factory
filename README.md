@@ -243,5 +243,32 @@ review list don't have this review
 
 
 
+## Part 4 Likes
+
+Value: 10%
 
 
+### Implement the ability for users to like ideas
+
+![Screenshot from 2021-10-25 15-01-40](https://user-images.githubusercontent.com/21187699/138777279-e3412bfb-43c9-4f2d-b14a-3ef3986e1218.png)
+
+
+### Display the count of likes on the Ideas index page for each idea (as shown in wireframes)
+
+![Screenshot from 2021-10-25 15-06-36](https://user-images.githubusercontent.com/21187699/138777702-528741b5-2bdd-4db5-a80b-643b11d1dbe7.png)
+
+
+### Clicking the Like button makes the idea liked by the current user.
+
+click like button
+
+![Screenshot from 2021-10-25 15-11-05](https://user-images.githubusercontent.com/21187699/138778233-a4a66c69-8b39-487d-8700-1aae2623e270.png)
+
+then 
+
+![Screenshot from 2021-10-25 15-12-38](https://user-images.githubusercontent.com/21187699/138778326-8b707a69-f74a-4e72-b4c3-a2a7ccf66866.png)
+
+
+### When liked, a Liked button is displayed instead of the Like button. Clicking it unlikes the idea.
+
+![Screenshot from 2021-10-25 15-14-20](https://user-images.githubusercontent.com/21187699/138778433-135edb0f-7a21-4907-9591-058c0ca40239.png)

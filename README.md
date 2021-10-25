@@ -272,3 +272,45 @@ then
 ### When liked, a Liked button is displayed instead of the Like button. Clicking it unlikes the idea.
 
 ![Screenshot from 2021-10-25 15-14-20](https://user-images.githubusercontent.com/21187699/138778433-135edb0f-7a21-4907-9591-058c0ca40239.png)
+
+
+## Part 5: Presentable Styling and Overall Function
+
+Value: 5% 
+
+Your App does not need to look exactly like the wireframes below.  They are guidelines. 
+Where the wireframes and instructions differ, go in favour of the instructions.  
+That being said, make sure to style your app and make it look presentable.
+
+### extra work Join function 
+
+click join 
+
+![Screenshot from 2021-10-25 15-21-48](https://user-images.githubusercontent.com/21187699/138779093-d779dbea-ad6b-4b46-a2da-fccd627942fe.png)
+
+show message joined ,click members 
+
+![Screenshot from 2021-10-25 15-24-48](https://user-images.githubusercontent.com/21187699/138779296-b5469ad5-4165-4a5c-9e0e-c943ab986449.png)
+
+this idea member list
+
+![Screenshot from 2021-10-25 15-24-48](https://user-images.githubusercontent.com/21187699/138779358-c4677b18-b633-45f3-b428-2d6409498e56.png)
+
+
+click joined again, then quit this idea
+
+![Screenshot from 2021-10-25 15-26-45](https://user-images.githubusercontent.com/21187699/138779492-85f7113d-fd7d-469f-8e90-c4d6764dd9a1.png)
+
+the member list not show include current user 
+
+![Screenshot from 2021-10-25 15-28-12](https://user-images.githubusercontent.com/21187699/138779585-20656a7b-e6cc-42f9-8b75-893d16bdfc03.png)
+
+### add super user to access dashboard for summary
+
+admin dashboard
+![Screenshot from 2021-10-25 15-36-44](https://user-images.githubusercontent.com/21187699/138780335-219b31fd-bb02-42a2-9fa9-544b12da2336.png)
+
+other user:
+
+![Screenshot from 2021-10-25 15-38-23](https://user-images.githubusercontent.com/21187699/138780450-8968e912-442d-473b-b77c-92f94369b8ec.png)
+

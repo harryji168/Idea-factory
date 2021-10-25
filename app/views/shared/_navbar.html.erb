@@ -16,6 +16,12 @@
                         <%= current_user.full_name %>
                         <% end %> 
                     |
+                   <% if current_user.try(:is_admin?) %>
+                       <%= link_to "/dashboard" do %> 
+                         Dashboard 
+                        <% end %> 
+                        |
+                   <% end %>      
                     <%= link_to "Sign Out", session_path, method: :delete,
                     data: {confirm: 'Are you sure you want to log out?'}
                     %>

@@ -27,7 +27,7 @@ class ReviewsController < ApplicationController
 
     private
     def find_idea
-        @idea = @idea = Idea.find_by_id params[:idea_id]
+        @idea = Idea.find_by_id params[:idea_id]
     end
 
     def review_params

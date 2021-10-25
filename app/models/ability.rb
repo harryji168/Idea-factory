@@ -30,9 +30,8 @@ class Ability
     #
     # See the wiki for details:
     # https://github.com/CanCanCommunity/cancancan/wiki/Defining-Abilities
-  end
 
-  alias_action(:create, :read, :update,:delete, to: :crud)
+    alias_action(:create, :read, :update,:delete, to: :crud)
 
     can(:crud, Idea) do |idea|
       user==idea.user

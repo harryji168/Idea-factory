@@ -1,15 +1,39 @@
-<h2>
-    Admin Panel
-</h2>
+<div class="container">
+    <h1>Sign Up</h1>
+    <div class='shadow-sm p-3 mb-5 bg-white rounded col-sm-8'>
+        <%= form_with model: @user, local:true do |f|%>
+        <% if @user.errors.any? %>
+        <p class="text-danger">
+            <%= @user.errors.full_messages.join(', ')%>
+        </p>
+        <% end %>
+                
+            <%= f.label :first_name  %> 
+        <div class='form-group'>
+            <%= f.text_field :first_name, class: 'form-control' %> 
+        </div>
 
-<h3>
-<%= @user_number%> Users
-</h3>
+            <%= f.label :last_name  %> 
+        <div class='form-group'>
+            <%= f.text_field :last_name, class: 'form-control'  %> 
+        </div>
 
-<h3>
-<%= @idea_number%> Ideas
-</h3>
+            <%= f.label :email  %> 
+        <div class='form-group'>
+            <%= f.email_field :email, class: 'form-control' %> 
+        </div>
 
-<h3>
-<%= @review_number%> Reviews
-</h3>
+            <%= f.label :password %>
+        <div class='form-group'>
+            <%= f.password_field :password, class: 'form-control' %>
+        </div>
+
+            <%= f.label :password_confirmation %>
+        <div class='form-group'>
+            <%= f.password_field :password_confirmation, class: 'form-control' %>
+        </div>
+
+        <%= f.submit "Sign up", class: 'btn btn-primary'%>
+        <% end %>
+    </div>
+</div>

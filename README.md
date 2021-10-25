@@ -138,3 +138,51 @@ rspec -f d ./spec/controllers/ideas_controller_spec.rb
 ![Screenshot from 2021-10-25 14-08-21](https://user-images.githubusercontent.com/21187699/138771207-cd4cac60-d054-4591-b25d-a1f7aa14f2bd.png)
 
 
+## Part 2: User Authentication and Authorization
+
+Value: 25%
+
+### Implement basic user authentication:
+Sign Up
+
+![Screenshot from 2021-10-25 14-19-35](https://user-images.githubusercontent.com/21187699/138772619-cfdd8f7f-ccbd-4dc2-bd91-fe8b109a2f5a.png)
+
+
+Sign In
+
+![Screenshot from 2021-10-25 14-20-53](https://user-images.githubusercontent.com/21187699/138772760-27fbe71c-f7b9-4602-acc4-3b26e4d74d57.png)
+
+
+Sign Out 
+
+![Screenshot from 2021-10-25 14-21-32](https://user-images.githubusercontent.com/21187699/138772847-f5442df7-4e15-4d19-b0fc-e8a6f56416c5.png)
+
+
+![Screenshot from 2021-10-25 14-22-11](https://user-images.githubusercontent.com/21187699/138772918-9ac3f3d7-feb8-4c63-b066-f070d71c6041.png)
+
+
+### Associate created ideas with current user.
+
+![Screenshot from 2021-10-25 14-24-20](https://user-images.githubusercontent.com/21187699/138773141-4f206e8f-dece-4933-81b9-740d90a5575e.png)
+
+
+![Screenshot from 2021-10-25 14-24-57](https://user-images.githubusercontent.com/21187699/138773275-e7240c75-217e-4a29-b21b-9f97a71fae98.png)
+
+### Allow only the creator to edit & delete their ideas.
+
+this idea created by creator self, so can edit & delete
+
+![Screenshot from 2021-10-25 14-27-17](https://user-images.githubusercontent.com/21187699/138773485-838ebca1-49f1-4594-bfd6-c339d5c61b67.png)
+
+this idea created by another one, so no edit & delete button 
+
+![Screenshot from 2021-10-25 14-26-59](https://user-images.githubusercontent.com/21187699/138774038-7ccd6a8d-9102-49b9-9d10-c970505058ba.png)
+
+if use url directly to this edit page, it will show
+
+![Screenshot from 2021-10-25 14-32-58](https://user-images.githubusercontent.com/21187699/138774195-c84fcc19-f103-4d4d-9913-eb4cabddda66.png)
+
+
+### All rspec tests must be updated to support user authentication.
+
+![Screenshot from 2021-10-25 14-08-21](https://user-images.githubusercontent.com/21187699/138771207-cd4cac60-d054-4591-b25d-a1f7aa14f2bd.png)

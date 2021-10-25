@@ -85,36 +85,36 @@ The deadline for the quiz is 20:00 (8:30 PM) tonight.
 Value: 40%
 
 ##### Implement full CRUD for ideas (not fully shown in the wireframe above)
-      New,
-      
-      ![Screenshot from 2021-10-25 13-47-19](https://user-images.githubusercontent.com/21187699/138768530-9a472902-12dd-4cee-a841-2cf4141ab53a.png)
-      
-      Create,
-       
-      ![Screenshot from 2021-10-25 13-48-59](https://user-images.githubusercontent.com/21187699/138768833-d97d9984-acec-429f-888d-878893a4c177.png)
-            
-       Show, 
-       
-       ![Screenshot from 2021-10-25 13-50-56](https://user-images.githubusercontent.com/21187699/138768978-babece77-961a-4b94-abff-33b66222b698.png)
+New,
 
-       Index, 
+![Screenshot from 2021-10-25 13-47-19](https://user-images.githubusercontent.com/21187699/138768530-9a472902-12dd-4cee-a841-2cf4141ab53a.png)
 
-       ![Screenshot from 2021-10-25 13-51-48](https://user-images.githubusercontent.com/21187699/138769100-caf9a2e7-b7f7-4ca6-8a9d-e88c1dda9829.png)
+Create,
 
-     
-       Delete, 
-       
-       ![Screenshot from 2021-10-25 13-53-01](https://user-images.githubusercontent.com/21187699/138769227-90f5a38b-2328-42de-9622-38428b063c19.png)
+![Screenshot from 2021-10-25 13-48-59](https://user-images.githubusercontent.com/21187699/138768833-d97d9984-acec-429f-888d-878893a4c177.png)
 
-       
-       Edit 
-       
-       ![Screenshot from 2021-10-25 13-54-20](https://user-images.githubusercontent.com/21187699/138769373-769975a3-c5f5-4047-88d3-09c02f40ef89.png)       
-       
-       
-       & Update
+Show, 
 
-       ![Screenshot from 2021-10-25 13-55-13](https://user-images.githubusercontent.com/21187699/138769499-b000b53f-05b3-47f6-b265-7a9c71305948.png)
+![Screenshot from 2021-10-25 13-50-56](https://user-images.githubusercontent.com/21187699/138768978-babece77-961a-4b94-abff-33b66222b698.png)
+
+Index, 
+
+![Screenshot from 2021-10-25 13-51-48](https://user-images.githubusercontent.com/21187699/138769100-caf9a2e7-b7f7-4ca6-8a9d-e88c1dda9829.png)
+
+
+Delete, 
+
+![Screenshot from 2021-10-25 13-53-01](https://user-images.githubusercontent.com/21187699/138769227-90f5a38b-2328-42de-9622-38428b063c19.png)
+
+
+Edit 
+
+![Screenshot from 2021-10-25 13-54-20](https://user-images.githubusercontent.com/21187699/138769373-769975a3-c5f5-4047-88d3-09c02f40ef89.png)       
+
+
+& Update
+
+![Screenshot from 2021-10-25 13-55-13](https://user-images.githubusercontent.com/21187699/138769499-b000b53f-05b3-47f6-b265-7a9c71305948.png)
 
 
 ##### Each idea has a title and a description.

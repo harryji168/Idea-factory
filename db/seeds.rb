@@ -70,3 +70,5 @@ puts Cowsay.say("Login with  #{super_user.email} and password:#{PASSWORD}.",:Dra
 puts Cowsay.say("Generated #{reviews.count} reviews", :Turtle)
 puts Cowsay.say("Generated #{Like.count} Likes.",:Stegosaurus)
 puts Cowsay.say("Generated #{Join.count} Joins.",:Turkey)
+
+AdminUser.create!(email: 'admin@example.com', password: 'password', password_confirmation: 'password') if Rails.env.development?

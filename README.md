@@ -315,3 +315,16 @@ other user:
 
 ![Screenshot from 2021-10-25 15-38-23](https://user-images.githubusercontent.com/21187699/138780450-8968e912-442d-473b-b77c-92f94369b8ec.png)
 
+
+
+## install active admin
+
+![Screenshot from 2021-10-25 19-48-07](https://user-images.githubusercontent.com/21187699/138800508-64d007fc-5847-407c-bfb2-fbdb87acb642.png)
+
+login 
+
+![Screenshot from 2021-10-25 19-50-37](https://user-images.githubusercontent.com/21187699/138800732-d267b90b-640f-4c63-8214-7c255f4ae94c.png)
+
+edit admin user
+
+![Screenshot from 2021-10-25 19-51-05](https://user-images.githubusercontent.com/21187699/138800766-ca719d28-de08-4317-9062-c4f91e6d220c.png)

@@ -26,8 +26,6 @@ download file to folder idea_factory
  
 ```shell
 bundle install
-bundle fund
-bundle
 ```
 
 ```sh

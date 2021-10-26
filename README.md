@@ -2,11 +2,11 @@
 
 ## Quiz II  - idea_factory
   
-  Build a web app to post & discuss ideas with Rails.
+Build a web app to post & discuss ideas with Rails.
 
-  ![Screenshot from 2021-10-25 13-34-39](https://user-images.githubusercontent.com/21187699/138766867-5008df2c-6433-4630-83b7-d675fe295c9b.png)
+![Screenshot from 2021-10-25 13-34-39](https://user-images.githubusercontent.com/21187699/138766867-5008df2c-6433-4630-83b7-d675fe295c9b.png)
 
-  
+https://github.com/harryji168/Quiz_ideas/pull/1/commits  
 
 ###  Ruby version   
 
@@ -18,6 +18,7 @@ Ruby 3.0.0 &&  Rails 6.1.4.1
  
 ### Configuration
  
+create folder like "idea_factory"
 ```shell
 mkdir idea_factory && cd idea_factory 
 ```
@@ -67,7 +68,7 @@ http://localhost:3000/
 
 ## pull requirment
 
- https://github.com/harryji168/Quiz_ideas/pull/1/commits
+https://github.com/harryji168/Quiz_ideas/pull/1/commits
 
 ## requirement
 

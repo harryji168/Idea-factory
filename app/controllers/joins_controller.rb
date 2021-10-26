@@ -1,4 +1,5 @@
 class JoinsController < ApplicationController
+    before_action :authenticate_user!
     def create
         idea= Idea.find params[:idea_id] 
         join= Join.new idea: idea, user: current_user

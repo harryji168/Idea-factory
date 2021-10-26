@@ -5,7 +5,6 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
-
 Join.delete_all
 Like.delete_all
 Review.delete_all
@@ -31,7 +30,7 @@ NUM_USER.times do
         first_name: first_name,
         last_name: last_name,
         email: "#{first_name}.#{last_name}@example.com",
-        password: 'password'
+        password: PASSWORD
     )
 end
 users=User.all
@@ -40,8 +39,8 @@ NUM_IDEAS.times do
     created_at = Faker::Date.backward(days: 365*5)
  
     p=Idea.create(
-        title: Faker::Hacker.say_something_smart,
-        description: Faker::Lorem.sentence(word_count: 100),
+        title: Faker::Lorem.sentence(word_count: 3),
+        description:Faker::Lorem.sentence(word_count: 100),
         created_at: created_at, 
         updated_at: created_at,
         user: users.sample

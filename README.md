@@ -20,7 +20,7 @@ Ruby 3.0.0 &&  Rails 6.1.4.1
  
 create folder like "idea_factory"
 ```shell
-mkdir idea_factory && cd idea_factory 
+mkdir idea_factory & cd idea_factory 
 ```
 download file to folder idea_factory
 

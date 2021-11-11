@@ -1,4 +1,4 @@
-# README  1
+# README  
 
 ## Quiz II  - idea_factory
   
